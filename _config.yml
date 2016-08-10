@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rithish.github.io
+title: Blog
+email: rithish@gmail.com
+author: Rithish
+description: Goibibo Tech Blog
+paginate: 3
+google_analytics: 
